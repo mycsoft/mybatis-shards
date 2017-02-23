@@ -21,9 +21,9 @@ MyBatis Shards采用无侵入性的方式，无需更改现有程序代码，只
 
 ## CI status
 
-[![Build Status](https://travis-ci.org/makersoft/mybatis-shards.svg?branch=master)](https://travis-ci.org/makersoft/mybatis-shards)
+[![Build Status](https://travis-ci.org/mycsoft/mybatis-shards.svg?branch=master)](https://travis-ci.org/mycsoft/mybatis-shards)
 
-联系方式：guofengcn@126.com
+联系方式：guofengcn@126.com mycsoft@qq.com
 
   [1]: http://www.makersoft.org
   [2]: http://code.alibabatech.com/wiki/display/CobarClient/Home

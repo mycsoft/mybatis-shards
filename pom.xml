@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
@@ -8,7 +9,7 @@
     <version>1.0.2-SNAPSHOT</version>
 
     <name>mybatis-shards(myc)</name>
-    <url>http://myc.name</url>
+    <url>http://mybatis-shards.github.myc.name/</url>
     <description>MyBatis Shards(Myc Version) is a framework that is designed to encapsulate and minimize this complexity by adding support for horizontal partitioning to Mybatis Core.</description>
 
     <properties>
@@ -70,14 +71,14 @@
             <version>1.6.4</version>
         </dependency>-->
 
-        <!-- slf4j-log4j绑定 
+        <!-- slf4j-log4j缁戝畾 
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
             <version>1.6.4</version>
         </dependency>-->
 
-        <!-- common-logging 实际调用 slf4j
+        <!-- common-logging 瀹為檯璋冪敤 slf4j
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>jcl-over-slf4j</artifactId>
@@ -378,7 +379,7 @@
                     <threshold>High</threshold>  
                     <effort>Default</effort>  
                     <findbugsXmlOutput>true</findbugsXmlOutput>  
-                    <!-- findbugs xml���·��-->         
+                    <!-- findbugs xml输出路径-->         
                     <findbugsXmlOutputDirectory>target/site</findbugsXmlOutputDirectory>  
                 </configuration>  
             </plugin>  
